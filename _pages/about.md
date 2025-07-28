@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Seongmin Park"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About
 I'm a Ph.D. student in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), South Korea. I received my B.S. degree in Mechanical Engineering from SKKU in 2020.
 My research focuses on Representation learning for Collaborative Filtering, Unbiased Recommender Learning, and Efficient Recommendation.
 
