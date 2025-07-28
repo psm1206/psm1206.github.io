@@ -23,12 +23,12 @@ The 48th International ACM SIGIR Conference on Research and Development in Infor
 Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105) 
 
 **Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences** [[paper](https://arxiv.org/abs/2503.22005)] [[code](https://github.com/kookeej/CORAL)] <br>
-Heejin Kook*, Junyoung Kim*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
+Heejin Kook\*, Junyoung Kim\*, **Seongmin Park**, Jongwuk Lee (\* : equal contribution) <br>
 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) <br>
 Albuquerque, New Mexico, USA, April 29-May 4, 2025 (Acceptance Rate: 22.15%, 719/3246)
 
 **Temporal Linear Item-Item Model for Sequential Recommendation** [[paper](https://arxiv.org/abs/2412.07382)] [[code](https://github.com/psm1206/TALE)] <br>
-**Seongmin Park***, Mincheol Yoon*, Minjin Choi, Jongwuk Lee (* : equal contribution) <br>
+**Seongmin Park**\*, Mincheol Yoon\*, Minjin Choi, Jongwuk Lee (\* : equal contribution) <br>
 The 18th ACM International Conference on Web Search and Data Mining (WSDM) <br>
 Hannover, Germany, March 10-14, 2025 (Acceptance Rate: 17.3%, 106/614, Oral Presentation (Top 6.5%))
 
@@ -54,6 +54,6 @@ Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
 
 ## Domestic Conference and Journal
 사고 연쇄 프롬프팅을 통한 거대 언어 모델의 영화 도메인에 대한 지식 평가 및 분석 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244)] <br>
-나정우*, 국희진*, **박성민**, 문재완, 이종욱 (* : equal contribution) <br>
+나정우\*, 국희진\*, **박성민**, 문재완, 이종욱 (\* : equal contribution) <br>
 한국정보과학회 학술발표논문집, Jun 2022
 
