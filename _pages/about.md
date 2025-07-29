@@ -58,5 +58,15 @@ Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
 한국정보과학회 학술발표논문집, Jun 2022
 
 
+<br>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ier28U1QUfiPhkuhOkNjay5nJFkjnGpeMDOquzcn3sI"></script>
+div style="text-align: center;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ier28U1QUfiPhkuOkNjay5nJFkjnGpeMDOquzcn3sI"></script>
+</div>
+
+<style>
+#clstr_globe {
+  transform: scale(0.3); /* 70% 크기로 축소 */
+  transform-origin: center;
+}
+</style>
