@@ -60,4 +60,4 @@ Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
 
 <br>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=Ier28U1QUfiPhkuhOkNjay5nJFkjnGpeMDOquzcn3sI'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=m&d=Ier28U1QUfiPhkuhOkNjay5nJFkjnGpeMDOquzcn3sI'></script>
