@@ -12,6 +12,16 @@ My research focuses on Representation learning for Collaborative Filtering, Unbi
 
 # Publications
 ## International Conference
+**MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation** <br>
+Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
+The 34th ACM International Conference on Information and Knowledge Management (CIKM) <br>
+Seoul, South Korea, November 10-14, 2025 (Acceptance Rate: 27%, 443/1627)
+
+**LLM-Enhanced Linear Autoencoders for Recommendation** <br>
+Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
+The 34th ACM International Conference on Information and Knowledge Management (CIKM) <br>
+Seoul, South Korea, November 10-14, 2025 (Acceptance Rate: 30.6%, 185/604)
+
 **Why is Normalization Necessary for Linear Recommenders?** [[paper](https://arxiv.org/abs/2504.05805)] [[code](https://github.com/psm1206/DAN)] <br>
 **Seongmin Park**, Mincheol Yoon, Hye-young Kim, Jongwuk Lee <br>
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) <br>
