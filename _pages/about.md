@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a Ph.D. student in the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) at Sungkyunkwan University (SKKU), where I'm fortunate to be advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I received my B.S. degree in Mechanical Engineering from SKKU in 2020.
-My research focuses on Representation learning for Collaborative Filtering, Unbiased Recommender Learning, and Efficient Recommendation. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
+My research focuses on Representation learning for Collaborative Filtering, Unbiased Recommender Learning, and Efficient Recommendation. Recently, I've been exploring the integration of large language models with recommender systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
 # Publications
 ## International Conference
@@ -19,7 +19,7 @@ Seoul, Republic of Korea, November 10-14, 2025 (Acceptance Rate: 27%, 443/1627)
 
 **LLM-Enhanced Linear Autoencoders for Recommendation** <br>
 Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
-The 34th ACM International Conference on Information and Knowledge Management (CIKM) <br>
+The 34th ACM International Conference on Information and Knowledge Management (CIKM, short paper) <br>
 Seoul, Republic of Korea, November 10-14, 2025 (Acceptance Rate: 30.6%, 185/604)
 
 **Why is Normalization Necessary for Linear Recommenders?** [[paper](https://arxiv.org/abs/2504.05805)] [[code](https://github.com/psm1206/DAN)] <br>
