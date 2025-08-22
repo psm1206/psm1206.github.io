@@ -69,6 +69,11 @@ The 44th International ACM SIGIR Conference on Research and Development in Infor
 Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
 
 ## Domestic Conference and Journal
+
+추론 경로를 통한 거대언어모델 기반 제로샷 대화형 추천시스템 성능 개선 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650)] <br>
+국희진, **박성민**, 이종욱 <br>
+정보과학회논문지 (Journal of KIISE) Vol.52 No.7 [2025]: 617-626, Jul 2025
+
 사고 연쇄 프롬프팅을 통한 거대 언어 모델의 영화 도메인에 대한 지식 평가 및 분석 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244)] <br>
 나정우\*, 국희진\*, **박성민**, 문재완, 이종욱 (\* : equal contribution) <br>
 한국정보과학회 학술발표논문집, Jun 2022
