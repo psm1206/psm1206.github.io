@@ -13,7 +13,7 @@ My research focuses on Representation learning for Collaborative Filtering, Unbi
 # Publications
 ## International Conference
 
-**Enhancing Time Awareness in Generative Recommendation** <br>
+**Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP findings) <br>
 Suzhou, China, November 5-9, 2025
