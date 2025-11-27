@@ -42,57 +42,47 @@ Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribu
 
 **Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
-EMNLP Findings 2025, Suzhou, China
+<span class="conference-name">EMNLP Findings 2025</span>, Suzhou, China
 
 **MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation** [[paper](https://arxiv.org/abs/2508.13670)] [[code](https://github.com/ilwoong100/MUFFIN)] <br>
 Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
-The 34th ACM International Conference on Information and Knowledge Management (CIKM) <br>
-Seoul, Republic of Korea, November 10-14, 2025 (Acceptance Rate: 27%, 443/1627)
+<span class="conference-name">CIKM 2025</span>, Seoul, Republic of Korea (Acceptance Rate: 27%, 443/1627)
 
 **LLM-Enhanced Linear Autoencoders for Recommendation** [[paper](https://arxiv.org/abs/2508.13500)] [[code](https://github.com/jaewan7599/L3AE_CIKM2025)] <br>
 Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
-The 34th ACM International Conference on Information and Knowledge Management (CIKM, short paper) <br>
-Seoul, Republic of Korea, November 10-14, 2025 (Acceptance Rate: 30.6%, 185/604)
+<span class="conference-name">CIKM 2025</span>, Seoul, Republic of Korea (Acceptance Rate: 30.6%, 185/604; short paper track)
 
 **Why is Normalization Necessary for Linear Recommenders?** [[paper](https://arxiv.org/abs/2504.05805)] [[code](https://github.com/psm1206/DAN)] <br>
 **Seongmin Park**, Mincheol Yoon, Hye-young Kim, Jongwuk Lee <br>
-The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) <br>
-Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)
+<span class="conference-name">SIGIR 2025</span>, Padua, Italy (Acceptance Rate: 21.5%, 238/1105)
 
 **Linear Item-Item Models with Neural Knowledge for Session-based Recommendation** [[paper](https://arxiv.org/abs/2504.15057)] [[code](https://github.com/jin530/LINK)] <br>
 Minjin Choi, Sunkyung Lee, **Seongmin Park**, Jongwuk Lee <br>
-The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) <br>
-Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105) 
+<span class="conference-name">SIGIR 2025</span>, Padua, Italy (Acceptance Rate: 21.5%, 238/1105)
 
 **Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences** [[paper](https://arxiv.org/abs/2503.22005)] [[code](https://github.com/kookeej/CORAL)] <br>
 Heejin Kook\*, Junyoung Kim\*, **Seongmin Park**, Jongwuk Lee (\* : equal contribution) <br>
-2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) <br>
-Albuquerque, New Mexico, USA, April 29-May 4, 2025 (Acceptance Rate: 22.15%, 719/3246)
+<span class="conference-name">NAACL 2025</span>, Albuquerque, New Mexico, USA (Acceptance Rate: 22.15%, 719/3246)
 
 **Temporal Linear Item-Item Model for Sequential Recommendation** [[paper](https://arxiv.org/abs/2412.07382)] [[code](https://github.com/psm1206/TALE)] <br>
 **Seongmin Park**\*, Mincheol Yoon\*, Minjin Choi, Jongwuk Lee (\* : equal contribution) <br>
-The 18th ACM International Conference on Web Search and Data Mining (WSDM) <br>
-Hannover, Germany, March 10-14, 2025 (Acceptance Rate: 17.3%, 106/614, Oral Presentation (Top 6.5%))
+<span class="conference-name">WSDM 2025</span>, Hannover, Germany (Acceptance Rate: 17.3%, 106/614; Oral Presentation (Top 6.5%))
 
 **Toward a Better Understanding of Loss Functions for Collaborative Filtering** [[paper](https://arxiv.org/abs/2308.06091)] [[code](https://github.com/psm1206/MAWU)] <br>
 **Seongmin Park**, Mincheol Yoon, Jae-woong Lee, Hogun Park, Jongwuk Lee <br>
-The 32nd ACM International Conference on Information and Knowledge Management (CIKM) <br>
-Birmingham, UK, October 21-25, 2023 (Acceptance Rate: 24%, 354/1472)
+<span class="conference-name">CIKM 2023</span>, Birmingham, UK (Acceptance Rate: 24%, 354/1472)
 
 **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** [[paper](https://dl.acm.org/doi/10.1145/3539618.3592076)] [[code](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)] <br>
 Jae-woong Lee, **Seongmin Park**, Mincheol Yoon, Jongwuk Lee <br>
-The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR, short paper) <br>
-Taipei, Taiwan, July 23-27, 2023 (Acceptance Rate: 25.12%, 154/613)
+<span class="conference-name">SIGIR 2023</span>, Taipei, Taiwan (Acceptance Rate: 25.12%, 154/613; short paper track)
 
 **Bilateral Self-unbiased Learning from Biased Implicit Feedback** [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531946)] [[code](https://github.com/Jaewoong-Lee/sigir_2022_BISER)] <br>
 Jae-woong Lee, **Seongmin Park**, Joonseok Lee, Jongwuk Lee <br>
-The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) <br>
-Madrid, Spain, July 11-15, 2022 (Acceptance Rate: 20%, 161/794)
+<span class="conference-name">SIGIR 2022</span>, Madrid, Spain (Acceptance Rate: 20%, 161/794)
 
 **Dual Unbiased Recommender Learning for Implicit Feedback** [[paper](https://dl.acm.org/doi/10.1145/3404835.3463118)] [[code](https://github.com/Jaewoong-Lee/sigir_2021_unbiased_recsys)] <br>
 Jae-woong Lee, **Seongmin Park**, Jongwuk Lee <br>
-The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR, short paper) <br>
-Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
+<span class="conference-name">SIGIR 2021</span>, Virtual Event (Acceptance Rate: 27.6%, 145/526; short paper track)
 
 ## Domestic Conferences and Journals
 
