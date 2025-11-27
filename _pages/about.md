@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a Ph.D. student in the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) at Sungkyunkwan University (SKKU), where I'm fortunate to be advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I received my B.S. degree in Mechanical Engineering from SKKU in 2020.
-My research spans diverse recommendation tasks, including \textbf{Traditional Collaborative Filtering, Sequential/Session-based Recommendation, Conversational Recommendation, and Generative Recommendation}.
+My research spans diverse recommendation tasks, including Traditional Collaborative Filtering, Sequential/Session-based Recommendation, Conversational Recommendation, and Generative Recommendation.
 Recently, I've been exploring the integration of large language models and multimodal data with recommendation systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
 # Publications
