@@ -88,6 +88,8 @@ Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Model
 Jeongwoo Na\*, Heejin Kook\*, **Seongmin Park**, Jaewan Moon, Jongwuk Lee (\* : equal contribution) <br>
 Korea Computer Congress, Jun 2023
 
+<br>
+
 # Professional Services
 ## Conference Reviewer
 - 2026: The ACM Web Conference (WWW)
@@ -100,6 +102,8 @@ Korea Computer Congress, Jun 2023
 
 ## External Reviewer
 - NeurIPS (2022, 2023, 2025), WWW (2024), SIGIR (2023), WSDM (2022), AAAI (2022), KDD (2022), EMNLP (2022), EACL (2021)
+
+<br>
 
 # Honors and Awards
 - 2023: 2nd Place (Minister Award), 6th Stage II AI Grand Challenge: Policy Support AI [[link](https://news.heraldcorp.com/view.php?ud=20231211000522)]
