@@ -12,7 +12,7 @@ My research spans diverse recommendation tasks, including \textbf{Traditional Co
 Recently, I've been exploring the integration of large language models and multimodal data with recommendation systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
 # Publications
-## International Conference
+## International Conferences
 
 **MergeRec: Model Merging Meets Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io)] [[code](https://github.com/jaewan7599/MergeRec_KDD2026)] <br>
 Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
@@ -74,7 +74,7 @@ Jae-woong Lee, **Seongmin Park**, Jongwuk Lee <br>
 The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR, short paper) <br>
 Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
 
-## Domestic Conference and Journal
+## Domestic Conferences and Journals
 
 LLM-based Conversational Recommender Systems Using User/Item Preference Reasoning Paths [[paper]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417640) <br>
 Hyeri Lee, Heejin Kook, **Seongmin Park**, Jongwuk Lee <br>
@@ -88,6 +88,7 @@ Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Model
 Jeongwoo Na\*, Heejin Kook\*, **Seongmin Park**, Jaewan Moon, Jongwuk Lee (\* : equal contribution) <br>
 Korea Computer Congress, Jun 2023
 
+# Professional Services
 ## Conference Reviewer
 - 2026: The ACM Web Conference (WWW)
 - 2026: ACM International Conference on Web Search and Data Mining (WSDM)
@@ -99,6 +100,16 @@ Korea Computer Congress, Jun 2023
 
 ## External Reviewer
 - NeurIPS (2022, 2023, 2025), WWW (2024), SIGIR (2023), WSDM (2022), AAAI (2022), KDD (2022), EMNLP (2022), EACL (2021)
+
+# Honors and Awards
+- 2023: 2nd Place (Minister Award), 6th Stage II AI Grand Challenge: Policy Support AI [[link](https://news.heraldcorp.com/view.php?ud=20231211000522)]
+- 2023: Excellence Prize, SKKU Graduate Student Paper Awards (8/140 teams) [[link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=109453)]
+- 2023: 4th Place (Minister Award), 6th Stage I AI Grand Challenge: Policy Support AI [[link](https://zdnet.co.kr/view/?no=20230117090344)]
+- 2022: 1st Place (Minister Award), 5th Stage III AI Grand Challenge: Math Word Problem Solving [[link](https://www.aitimes.kr/news/articleView.html?idxno=26612)]
+- 2021: Participation Prize, SKKU Graduate Student Paper Awards (25/200 people) [[link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=92992)]
+- 2021: 3rd Place (Minister Award), 5th Stage II AI Grand Challenge: Math Word Problem Solving
+- 2015: Silver Prize, Undergraduate Korean Fluid Engineering Competition
+
 
 <br>
 
