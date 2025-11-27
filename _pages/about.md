@@ -22,7 +22,7 @@ redirect_from:
   }
 
   .conference-name {
-    color: #0073E6;
+    color: #0066CC; /* 006DD9 */
     font-weight: bold;
   }
   
