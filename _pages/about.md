@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I'm a Ph.D. student in the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) at Sungkyunkwan University (SKKU), where I'm fortunate to be advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I received my B.S. degree in Mechanical Engineering from SKKU in 2020.
-My research focuses on Representation learning for Collaborative Filtering, Unbiased Recommender Learning, and Efficient Recommendation. Recently, I've been exploring the integration of large language models with recommender systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
+My research spans diverse recommendation tasks, including \textbf{Traditional Collaborative Filtering, Sequential/Session-based Recommendation, Conversational Recommendation, and Generative Recommendation}.
+Recently, I've been exploring the integration of large language models and multimodal data with recommendation systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
 # Publications
 ## International Conference
@@ -16,7 +17,7 @@ My research focuses on Representation learning for Collaborative Filtering, Unbi
 **MergeRec: Model Merging Meets Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io)] [[code](https://github.com/jaewan7599/MergeRec_KDD2026)] <br>
 Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
 The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) <br>
-Jeju, Republic of Korea, Aug 9-13, 2026 (Acceptance Rate: 20%)
+Jeju, Republic of Korea, August 9-13, 2026 (Acceptance Rate: 20%)
 
 **Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
@@ -75,14 +76,29 @@ Online (Virtual Event), July 11-15, 2021 (Acceptance Rate: 27.6%, 145/526)
 
 ## Domestic Conference and Journal
 
-추론 경로를 통한 거대언어모델 기반 제로샷 대화형 추천시스템 성능 개선 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650)] <br>
-국희진, **박성민**, 이종욱 <br>
-정보과학회논문지 (Journal of KIISE) Vol.52 No.7 [2025]: 617-626, Jul 2025
+LLM-based Conversational Recommender Systems Using User/Item Preference Reasoning Paths [[paper]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417640) <br>
+Hyeri Lee, Heejin Kook, **Seongmin Park**, Jongwuk Lee <br>
+Journal of KIISE (JOK) Vol.52 No.10 [2025]: 890-899, Oct 2025
 
-사고 연쇄 프롬프팅을 통한 거대 언어 모델의 영화 도메인에 대한 지식 평가 및 분석 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244)] <br>
-나정우\*, 국희진\*, **박성민**, 문재완, 이종욱 (\* : equal contribution) <br>
-한국정보과학회 학술발표논문집, Jun 2022
+Enhancing LLM-based Zero-Shot Conversational Recommendation via Reasoning Path [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650)] <br>
+Heejin Kook, **Seongmin Park**, Jongwuk Lee <br>
+Journal of KIISE (JOK) Vol.52 No.7 [2025]: 617-626, Jul 2025
 
+Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Models through Chain of Thought Prompting [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244)] <br>
+Jeongwoo Na\*, Heejin Kook\*, **Seongmin Park**, Jaewan Moon, Jongwuk Lee (\* : equal contribution) <br>
+Korea Computer Congress, Jun 2023
+
+## Conference Reviewer
+- 2026: The ACM Web Conference (WWW)
+- 2026: ACM International Conference on Web Search and Data Mining (WSDM)
+- 2024-2025: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+
+## Journal Reviewer
+- 2025: IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)
+- 2025: ACM Transactions on Intelligent Systems and Technology (JCR 2024 IF: 6.6, Q1)
+
+## External Reviewer
+- NeurIPS (2022, 2023, 2025), WWW (2024), SIGIR (2023), WSDM (2022), AAAI (2022), KDD (2022), EMNLP (2022), EACL (2021)
 
 <br>
 
