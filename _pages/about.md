@@ -20,6 +20,12 @@ redirect_from:
   .page__content h2 {
     font-size: 1.4em;
   }
+
+  .conference-name {
+    color: #0073E6;
+    font-weight: bold;
+  }
+  
 </style>
 
 
@@ -32,13 +38,11 @@ Recently, I've been exploring the integration of large language models and multi
 
 **MergeRec: Model Merging Meets Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io)] [[code](https://github.com/jaewan7599/MergeRec_KDD2026)] <br>
 Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
-The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) <br>
-Jeju, Republic of Korea, August 9-13, 2026 (Acceptance Rate: 20%)
+<span class="conference-name">KDD 2026</span>, Jeju, Republic of Korea (Acceptance Rate: 20%)
 
 **Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
-The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP findings) <br>
-Suzhou, China, November 5-9, 2025
+EMNLP Findings 2025, Suzhou, China
 
 **MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation** [[paper](https://arxiv.org/abs/2508.13670)] [[code](https://github.com/ilwoong100/MUFFIN)] <br>
 Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
