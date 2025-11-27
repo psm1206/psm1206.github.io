@@ -13,6 +13,11 @@ My research focuses on Representation learning for Collaborative Filtering, Unbi
 # Publications
 ## International Conference
 
+**MergeRec: Model Merging Meets Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io)] [[code](https://github.com/jaewan7599/MergeRec_KDD2026)] <br>
+Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
+The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) <br>
+Jeju, Republic of Korea, Aug 9-13, 2026 (Acceptance Rate: 20%)
+
 **Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP findings) <br>
