@@ -117,10 +117,10 @@ Korea Computer Congress, Jun 2023
 
 # Honors and Awards
 - 2023: 2nd Place (Minister Award), 6th Stage II AI Grand Challenge: Policy Support AI [[link](https://news.heraldcorp.com/view.php?ud=20231211000522)]
-- 2023: Excellence Prize, SKKU Graduate Student Paper Awards (8/140 teams) [[link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=109453)]
+- 2023: Excellence Prize, SKKU Graduate Student Paper Awards (8/140 teams; KRW 4,000,000) [[link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=109453)]
 - 2023: 4th Place (Minister Award), 6th Stage I AI Grand Challenge: Policy Support AI [[link](https://zdnet.co.kr/view/?no=20230117090344)]
 - 2022: 1st Place (Minister Award), 5th Stage III AI Grand Challenge: Math Word Problem Solving [[link](https://www.aitimes.kr/news/articleView.html?idxno=26612)]
-- 2021: Participation Prize, SKKU Graduate Student Paper Awards (25/200 people) [[link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=92992)]
+- 2021: Participation Prize, SKKU Graduate Student Paper Awards (25/200 people; KRW 4,000,000) [[link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=92992)]
 - 2021: 3rd Place (Minister Award), 5th Stage II AI Grand Challenge: Math Word Problem Solving
 - 2015: Silver Prize, Undergraduate Korean Fluid Engineering Competition
 
