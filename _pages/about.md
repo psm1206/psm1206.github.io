@@ -42,7 +42,7 @@ Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribu
 
 **Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
-<span class="conference-name">EMNLP Findings 2025</span>, Suzhou, China
+<span class="conference-name">EMNLP 2025 Findings</span>, Suzhou, China
 
 **MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation** [[paper](https://arxiv.org/abs/2508.13670)] [[code](https://github.com/ilwoong100/MUFFIN)] <br>
 Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
