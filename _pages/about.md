@@ -86,15 +86,15 @@ Jae-woong Lee, **Seongmin Park**, Jongwuk Lee <br>
 
 ## Domestic Conferences and Journals
 
-LLM-based Conversational Recommender Systems Using User/Item Preference Reasoning Paths [[paper]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417640) <br>
+**LLM-based Conversational Recommender Systems Using User/Item Preference Reasoning Paths** [[paper]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417640) <br>
 Hyeri Lee, Heejin Kook, **Seongmin Park**, Jongwuk Lee <br>
 Journal of KIISE (JOK) Vol.52 No.10 [2025]: 890-899, Oct 2025
 
-Enhancing LLM-based Zero-Shot Conversational Recommendation via Reasoning Path [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650)] <br>
+**Enhancing LLM-based Zero-Shot Conversational Recommendation via Reasoning Path** [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650)] <br>
 Heejin Kook, **Seongmin Park**, Jongwuk Lee <br>
 Journal of KIISE (JOK) Vol.52 No.7 [2025]: 617-626, Jul 2025
 
-Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Models through Chain of Thought Prompting [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244)] <br>
+**Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Models through Chain of Thought Prompting** [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244)] <br>
 Jeongwoo Na\*, Heejin Kook\*, **Seongmin Park**, Jaewan Moon, Jongwuk Lee (\* : equal contribution) <br>
 Korea Computer Congress, Jun 2023
 
