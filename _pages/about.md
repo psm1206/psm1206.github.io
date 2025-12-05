@@ -36,7 +36,7 @@ Recently, I've been exploring the integration of large language models and multi
 # Publications
 ## International Conferences
 
-**MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io)] [[code](https://github.com/jaewan7599/MergeRec_KDD2026)] <br>
+**MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io/#publications)] [[code](https://github.com/sudokim/MergeRec)] <br>
 Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">KDD 2026</span>, Jeju, Republic of Korea (Acceptance Rate: 20%)
 
