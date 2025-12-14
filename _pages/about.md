@@ -52,7 +52,7 @@ Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribu
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
 <span class="conference-name">EMNLP 2025 Findings</span>, Suzhou, China
 
-**MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation** [[paper](https://arxiv.org/abs/2508.13670)] [[code](https://github.com/ilwoong100/MUFFIN)] <br>
+**MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation** [[paper](https://arxiv.org/abs/2508.13670)] [[code](https://github.com/ilwoong100/MUFFIN)] [[slide](https://drive.google.com/file/d/171U8pQW2L_4WZ3Ai9qRWQ6n1XhI1tCd2/view?usp=sharing)] <br>
 Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">CIKM 2025</span>, Seoul, Republic of Korea (Acceptance Rate: 27%, 443/1627)
 
