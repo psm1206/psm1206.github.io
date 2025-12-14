@@ -76,11 +76,11 @@ Heejin Kook\*, Junyoung Kim\*, **Seongmin Park**, Jongwuk Lee (\* : equal contri
 **Seongmin Park**\*, Mincheol Yoon\*, Minjin Choi, Jongwuk Lee (\* : equal contribution) <br>
 <span class="conference-name">WSDM 2025</span>, Hannover, Germany (Acceptance Rate: 17.3%, 106/614; Oral Presentation (Top 6.5%))
 
-**Toward a Better Understanding of Loss Functions for Collaborative Filtering** [[paper](https://arxiv.org/abs/2308.06091)] [[code](https://github.com/psm1206/MAWU)] <br>
+**Toward a Better Understanding of Loss Functions for Collaborative Filtering** [[paper](https://arxiv.org/abs/2308.06091)] [[code](https://github.com/psm1206/MAWU)] [[slide](https://drive.google.com/file/d/1-b_KoCHOoT5QhcphlM5Ifau07BZp2MHz/view?usp=sharing)] <br>
 **Seongmin Park**, Mincheol Yoon, Jae-woong Lee, Hogun Park, Jongwuk Lee <br>
 <span class="conference-name">CIKM 2023</span>, Birmingham, UK (Acceptance Rate: 24%, 354/1472)
 
-**uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** [[paper](https://dl.acm.org/doi/10.1145/3539618.3592076)] [[code](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)] <br>
+**uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** [[paper](https://dl.acm.org/doi/10.1145/3539618.3592076)] [[code](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)] [[poster](https://drive.google.com/file/d/1I318pPCc0pEI-lJVPqDBLEUIdwFT_fOL/view?usp=sharing)] <br>
 Jae-woong Lee, **Seongmin Park**, Mincheol Yoon, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2023</span>, Taipei, Taiwan (Acceptance Rate: 25.12%, 154/613; short paper track)
 
