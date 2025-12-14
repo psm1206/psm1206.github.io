@@ -48,7 +48,7 @@ Recently, I've been exploring the integration of large language models and multi
 Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">KDD 2026</span>, Jeju, Republic of Korea (Acceptance Rate: 20%)
 
-**Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] <br>
+**Enhancing Time Awareness in Generative Recommendation** [[paper](https://arxiv.org/abs/2509.13957)] [[code](https://github.com/skleee/GRUT)] [[slide](https://drive.google.com/file/d/1DN3NIef9nA0uLpleh8Bu2hnwTRZMKMub/view?usp=sharing)] <br>
 Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
 <span class="conference-name">EMNLP 2025 Findings</span>, Suzhou, China
 
@@ -56,7 +56,7 @@ Sunkyung Lee, **Seongmin Park**, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee <br>
 Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">CIKM 2025</span>, Seoul, Republic of Korea (Acceptance Rate: 27%, 443/1627)
 
-**LLM-Enhanced Linear Autoencoders for Recommendation** [[paper](https://arxiv.org/abs/2508.13500)] [[code](https://github.com/jaewan7599/L3AE_CIKM2025)] <br>
+**LLM-Enhanced Linear Autoencoders for Recommendation** [[paper](https://arxiv.org/abs/2508.13500)] [[code](https://github.com/jaewan7599/L3AE_CIKM2025)] [[poster](https://drive.google.com/file/d/1QEqkt2m0UKEG2yJWRiryNvh2Ln-bafo2/view?usp=sharing)] <br>
 Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">CIKM 2025</span>, Seoul, Republic of Korea (Acceptance Rate: 30.6%, 185/604; short paper track)
 
@@ -72,7 +72,7 @@ Minjin Choi, Sunkyung Lee, **Seongmin Park**, Jongwuk Lee <br>
 Heejin Kook\*, Junyoung Kim\*, **Seongmin Park**, Jongwuk Lee (\* : equal contribution) <br>
 <span class="conference-name">NAACL 2025</span>, Albuquerque, New Mexico, USA (Acceptance Rate: 22.15%, 719/3246)
 
-**Temporal Linear Item-Item Model for Sequential Recommendation** [[paper](https://arxiv.org/abs/2412.07382)] [[code](https://github.com/psm1206/TALE)] <br>
+**Temporal Linear Item-Item Model for Sequential Recommendation** [[paper](https://arxiv.org/abs/2412.07382)] [[code](https://github.com/psm1206/TALE)] [[slide](https://drive.google.com/file/d/1Q4eeQfmw4TSkoEzQcDmmcgu8zAO6wC6B/view?usp=sharing)] <br>
 **Seongmin Park**\*, Mincheol Yoon\*, Minjin Choi, Jongwuk Lee (\* : equal contribution) <br>
 <span class="conference-name">WSDM 2025</span>, Hannover, Germany (Acceptance Rate: 17.3%, 106/614; Oral Presentation (Top 6.5%))
 
