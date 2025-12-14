@@ -25,6 +25,10 @@ redirect_from:
     color: #0066CC; /* 006DD9 */
     font-weight: bold;
   }
+
+  .bold-name {
+    font-weight: bold;
+  }
   
 </style>
 
@@ -34,6 +38,10 @@ My research spans diverse recommendation tasks, including Traditional Collaborat
 Recently, I've been exploring the integration of large language models and multimodal data with recommendation systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
 # Publications
+**Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality** [[slide](https://drive.google.com/file/d/1QB2lABEqL-0dFQ2pLMwyCTJLVor-g_j7/view?usp=sharing)] <br>
+**Seongmin Park** <br>
+<span class="bold-name">Ph.D. Dissertation</span>
+
 ## International Conferences
 
 **MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io/#publications)] [[code](https://github.com/sudokim/MergeRec)] <br>
@@ -52,7 +60,7 @@ Ilwoong Baek\*, Mincheol Yoon\*, **Seongmin Park**, Jongwuk Lee (* : equal contr
 Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">CIKM 2025</span>, Seoul, Republic of Korea (Acceptance Rate: 30.6%, 185/604; short paper track)
 
-**Why is Normalization Necessary for Linear Recommenders?** [[paper](https://arxiv.org/abs/2504.05805)] [[code](https://github.com/psm1206/DAN)] <br>
+**Why is Normalization Necessary for Linear Recommenders?** [[paper](https://arxiv.org/abs/2504.05805)] [[code](https://github.com/psm1206/DAN)] [[slide](https://drive.google.com/file/d/1CJGLaYSV06ZydebBaLb0cB_usAyFW-Am/view?usp=sharing)] [[poster](https://drive.google.com/file/d/1AzRL6RUofOPPaTcMBrLxGDPBTwS2E0Cs/view?usp=sharing)] <br>
 **Seongmin Park**, Mincheol Yoon, Hye-young Kim, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2025</span>, Padua, Italy (Acceptance Rate: 21.5%, 238/1105)
 
