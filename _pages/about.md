@@ -84,7 +84,7 @@ Heejin Kook\*, Junyoung Kim\*, **Seongmin Park**, Jongwuk Lee (\* : equal contri
 Jae-woong Lee, **Seongmin Park**, Mincheol Yoon, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2023</span>, Taipei, Taiwan (Acceptance Rate: 25.12%, 154/613; short paper track)
 
-**Bilateral Self-unbiased Learning from Biased Implicit Feedback** [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531946)] [[code](https://github.com/Jaewoong-Lee/sigir_2022_BISER)] <br>
+**Bilateral Self-unbiased Learning from Biased Implicit Feedback** [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531946)] [[code](https://github.com/Jaewoong-Lee/sigir_2022_BISER)] [[slide](https://drive.google.com/file/d/1g_3omtk83yyRmrrzaq5PDAmr9MQ9tM0m/view?usp=sharing)] [[poster](https://drive.google.com/file/d/1R8N6x7kW6qrmWqa5c97JGeGlpyuDvWXZ/view?usp=sharing)] <br>
 Jae-woong Lee, **Seongmin Park**, Joonseok Lee, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2022</span>, Madrid, Spain (Acceptance Rate: 20%, 161/794)
 
