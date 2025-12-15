@@ -68,7 +68,7 @@ Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
 Minjin Choi, Sunkyung Lee, **Seongmin Park**, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2025</span>, Padua, Italy (Acceptance Rate: 21.5%, 238/1105)
 
-**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences** [[paper](https://arxiv.org/abs/2503.22005)] [[code](https://github.com/kookeej/CORAL)] <br>
+**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences** [[paper](https://arxiv.org/abs/2503.22005)] [[code](https://github.com/kookeej/CORAL)] [[slide](https://drive.google.com/file/d/18nOHO8UFdatXI1Zb32UminfPmVu121TD/view?usp=sharing)] <br>
 Heejin Kook\*, Junyoung Kim\*, **Seongmin Park**, Jongwuk Lee (\* : equal contribution) <br>
 <span class="conference-name">NAACL 2025</span>, Albuquerque, New Mexico, USA (Acceptance Rate: 22.15%, 719/3246)
 
