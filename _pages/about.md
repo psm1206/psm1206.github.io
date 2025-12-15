@@ -64,7 +64,7 @@ Jaewan Moon\*, **Seongmin Park**\*, Jongwuk Lee (* : equal contribution) <br>
 **Seongmin Park**, Mincheol Yoon, Hye-young Kim, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2025</span>, Padua, Italy (Acceptance Rate: 21.5%, 238/1105)
 
-**Linear Item-Item Models with Neural Knowledge for Session-based Recommendation** [[paper](https://arxiv.org/abs/2504.15057)] [[code](https://github.com/jin530/LINK)] <br>
+**Linear Item-Item Models with Neural Knowledge for Session-based Recommendation** [[paper](https://arxiv.org/abs/2504.15057)] [[code](https://github.com/jin530/LINK)] [[slide](https://drive.google.com/file/d/1EXlnpDn4Ak_5tFfOZhMvms1AkjPNwnyJ/view?usp=sharing)] <br>
 Minjin Choi, Sunkyung Lee, **Seongmin Park**, Jongwuk Lee <br>
 <span class="conference-name">SIGIR 2025</span>, Padua, Italy (Acceptance Rate: 21.5%, 238/1105)
 
