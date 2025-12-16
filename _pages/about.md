@@ -39,7 +39,7 @@ Recently, I've been exploring the integration of large language models and multi
 
 # Publications
 **Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality** [[slide](https://drive.google.com/file/d/1QB2lABEqL-0dFQ2pLMwyCTJLVor-g_j7/view?usp=sharing)] <br>
-**Seongmin Park** <br>
+**Seongmin Park** (Committee: [Jee-Hyoung Lee](https://iislab.skku.edu/members/professor), [Hogun Park](https://hogunpark.com/), [Jae-Pil Heo](https://sites.google.com/site/jaepilheo), [Joonseok Lee](http://www.joonseok.net/), [Jongwuk Lee](https://jongwuklee.weebly.com/)) <br>
 <span class="bold-name">Ph.D. Dissertation</span>
 
 ## International Conferences
