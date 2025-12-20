@@ -33,7 +33,7 @@ redirect_from:
 </style>
 
 
-I'm a Ph.D. student in the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) at Sungkyunkwan University (SKKU), where I'm fortunate to be advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I received my B.S. degree in Mechanical Engineering from SKKU in 2020.
+I'm a Ph.D. candidate in the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) at Sungkyunkwan University (SKKU), where I'm fortunate to be advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I received my B.S. degree in Mechanical Engineering from SKKU in 2020.
 My research spans diverse recommendation tasks, including Traditional Collaborative Filtering, Sequential/Session-based Recommendation, Conversational Recommendation, and Generative Recommendation.
 Recently, I've been exploring the integration of large language models and multimodal data with recommendation systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
@@ -112,7 +112,7 @@ Korea Computer Congress, Jun 2023
 ## Conference Reviewer
 - 2026: The ACM Web Conference (WWW)
 - 2026: ACM International Conference on Web Search and Data Mining (WSDM)
-- 2024-2025: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+- 2024-2026: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 
 ## Journal Reviewer
 - 2025: IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)
