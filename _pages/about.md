@@ -44,7 +44,7 @@ Ph.D. Dissertation
 
 ## International Conferences
 
-**MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://psm1206.github.io/#publications)] [[code](https://github.com/sudokim/MergeRec)] <br>
+**MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation** [[paper](https://arxiv.org/abs/2601.01753)] [[code](https://github.com/sudokim/MergeRec)] <br>
 Hyunsoo Kim\*, Jaewan Moon\*, **Seongmin Park**, Jongwuk Lee (* : equal contribution) <br>
 <span class="conference-name">KDD 2026</span>, Jeju, Republic of Korea (Acceptance Rate: 20%)
 
