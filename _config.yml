@@ -25,16 +25,16 @@ author:
   avatar           : "profile.jpg"
   name             : "Seongmin Park"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at SKKU AI"
+  bio              : "Incoming Assistant Professor at HUFS"
   location         : "South Korea"
   # employer         : "Red Brick University"
   # uri              : # URL
-  email            : "psm1206@skku.edu" 
+  email            : "seongmin.park@hufs.ac.kr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=7gBh4w0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=AVfK1MgAAAAJ"
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
