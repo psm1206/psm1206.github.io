@@ -34,7 +34,7 @@ redirect_from:
 
 
 
-I am an Incoming Assistant Professor in [the Division of AI Data Convergence](https://aidata.hufs.ac.kr/) at Hankuk University of Foreign Studies ([HUFS](https://www.hufs.ac.kr/)). I received my Ph.D. degree in Artificial Intelligence from Sungkyunkwan University ([SKKU](https://www.skku.edu/)) in 2026, where I was a member of the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I also received my B.S. degree in Mechanical Engineering from SKKU in 2020.
+I am an Assistant Professor in [the Division of AI Data Convergence](https://aidata.hufs.ac.kr/) at Hankuk University of Foreign Studies ([HUFS](https://www.hufs.ac.kr/)). I received my Ph.D. degree in Artificial Intelligence from Sungkyunkwan University ([SKKU](https://www.skku.edu/)) in 2026, where I was a member of the Data Intelligence and Learning Lab ([DIAL Lab](https://dial.skku.edu/)) advised by [Prof. Jongwuk Lee](https://jongwuklee.weebly.com/). I also received my B.S. degree in Mechanical Engineering from SKKU in 2020.
 My research spans diverse recommendation tasks, including Traditional Collaborative Filtering, Sequential/Session-based Recommendation, Conversational Recommendation, and Generative Recommendation.
 Recently, I've been exploring the integration of large language models and multimodal data with recommendation systems. My Curriculum Vitae is [Here](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing).
 
