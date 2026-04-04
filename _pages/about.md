@@ -134,6 +134,12 @@ Korea Computer Congress, Jun 2023
 - 2021: 3rd Place (Minister Award), 5th Stage II AI Grand Challenge: Math Word Problem Solving
 - 2015: Silver Prize, Undergraduate Korean Fluid Engineering Competition
 
+<br>
+
+# Teaching
+## Spring 2026 <br>
+- Big Data Mining (빅데이터마이닝)
+- Advanced Deep Learning (딥러닝고급)
 
 <br>
 
