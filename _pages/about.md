@@ -116,8 +116,8 @@ Korea Computer Congress, Jun 2023
 - 2024-2026: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 
 ## Journal Reviewer
-- 2026: IEEE Transactions on Knowledge and Data Engineerings (JCR 2024 IF: 10.4, Q1)
-- 2025: IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)
+- 2026: IEEE Transactions on Knowledge and Data Engineering (JCR 2024 IF: 10.4, Q1)
+- 2025-2026: IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)
 - 2025: ACM Transactions on Intelligent Systems and Technology (JCR 2024 IF: 6.6, Q1)
 
 ## External Reviewer
