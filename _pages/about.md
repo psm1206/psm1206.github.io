@@ -110,15 +110,16 @@ Korea Computer Congress, Jun 2023
 <br>
 
 # Professional Services
-## Conference Reviewer
-- 2026: The ACM Web Conference (WWW)
-- 2026: ACM International Conference on Web Search and Data Mining (WSDM)
-- 2024-2026: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+## Conference Reviewer & Program Committee Member
+- 2027: ACM International Conference on Web Search and Data Mining (WSDM)
+- 2026: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), ACM International Conference on Web Search and Data Mining (WSDM), The ACM Web Conference (WWW)
+- 2025: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+- 2024: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 
 ## Journal Reviewer
-- 2026: IEEE Transactions on Knowledge and Data Engineering (JCR 2024 IF: 10.4, Q1)
-- 2025-2026: IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)
-- 2025: ACM Transactions on Intelligent Systems and Technology (JCR 2024 IF: 6.6, Q1)
+- IEEE Transactions on Knowledge and Data Engineering (JCR 2024 IF: 10.4, Q1): 2026a, 2026b
+- IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1): 2025, 2026
+- ACM Transactions on Intelligent Systems and Technology (JCR 2024 IF: 6.6, Q1): 2025
 
 ## External Reviewer
 - NeurIPS (2022, 2023, 2025), WWW (2024), SIGIR (2023), WSDM (2022), AAAI (2022), KDD (2022), EMNLP (2022), EACL (2021)
@@ -136,10 +137,20 @@ Korea Computer Congress, Jun 2023
 
 <br>
 
+# Talks
+- 추천 시스템과 교육 AI, 한국외국어대학교 교육대학원 AI Week 특강, 2026. 06. 11.
+
+<br>
+
 # Teaching
 ## Spring 2026 <br>
 - Big Data Mining (빅데이터마이닝)
 - Advanced Deep Learning (딥러닝고급)
+
+## Fall 2026 <br>
+- Introduction to Recommender Systems (추천시스템기초)
+- Deep Learning-based Recommender Systems (딥러닝추천시스템)
+- Translation and AI (통번역과AI)
 
 <br>
 
