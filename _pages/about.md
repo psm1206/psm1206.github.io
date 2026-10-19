@@ -138,19 +138,21 @@ Korea Computer Congress, Jun 2023
 <br>
 
 # Talks
+- 추천 시스템과 언어 교육 AI, 사이버한국외국어대학교 AI&English학과 Colloquium, 2026. 10. 17.
 - 추천 시스템과 교육 AI, 한국외국어대학교 교육대학원 AI Week 특강, 2026. 06. 11.
 
 <br>
 
 # Teaching
-## Spring 2026 <br>
-- Big Data Mining (빅데이터마이닝)
-- Advanced Deep Learning (딥러닝고급)
 
 ## Fall 2026 <br>
 - Introduction to Recommender Systems (추천시스템기초)
 - Deep Learning-based Recommender Systems (딥러닝추천시스템)
 - Translation and AI (통번역과AI)
+
+## Spring 2026 <br>
+- Big Data Mining (빅데이터마이닝)
+- Advanced Deep Learning (딥러닝고급)
 
 <br>
 
