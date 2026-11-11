@@ -196,7 +196,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .pubs { list-style: none; margin: 0; padding: 0; }
 .pub {
   display: grid;
-  grid-template-columns: 150px 1fr;
+  grid-template-columns: 172px 1fr;
   gap: 20px;
   padding: 16px 0;
   border-top: 1px solid var(--line);
@@ -211,6 +211,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   font-size: 0.78rem;
   font-weight: 600;
   line-height: 1.6;
+  white-space: nowrap;
 }
 @media (prefers-color-scheme: dark) { .badge { color: #0b1f1e; } }
 .pub__body p { margin: 0; }

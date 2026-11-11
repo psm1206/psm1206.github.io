@@ -85,6 +85,25 @@
     </div>
   </section>
 
+  <section id="dissertation" class="section">
+    <div class="wrap">
+      <h2>Ph.D. Dissertation</h2>
+      <ol class="pubs">
+        <li class="pub">
+          <div class="pub__venue"><span class="badge">{{ d.dissertation.venue }}</span></div>
+          <div class="pub__body">
+            <p class="pub__title">{{ d.dissertation.title }}</p>
+            <p class="pub__authors">{{ d.dissertation.authors }}</p>
+            <p class="pub__detail">{{ d.dissertation.detail }}</p>
+            <p class="pub__links">
+              {% for l in d.dissertation.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}
+            </p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
   <section id="experience" class="section">
     <div class="wrap">
       <h2>Experience and Education</h2>

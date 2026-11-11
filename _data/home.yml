@@ -33,22 +33,21 @@ education:
   - org: "Sungkyunkwan University (SKKU), Republic of Korea"
     period: "2026"
     title: "Ph.D., Artificial Intelligence"
-    desc: 'Advisor: <a href="https://jongwuklee.weebly.com/">Prof. Jongwuk Lee</a> (DIAL Lab).<br>Thesis: Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality'
+    desc: 'Advisor: <a href="https://jongwuklee.weebly.com/">Prof. Jongwuk Lee</a> (DIAL Lab).<br>Dissertation: Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality'
   - org: "Sungkyunkwan University (SKKU), Republic of Korea"
     period: "2020"
     title: "B.S., Mechanical Engineering"
     desc: ""
 
-publications:
-  - group: "Ph.D. Dissertation"
-    items:
-      - title: "Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality"
-        venue: "Ph.D. Thesis"
-        authors: 'Seongmin Park (Committee: <a href="https://iislab.skku.edu/members/professor">Jee-Hyong Lee</a>, <a href="https://hogunpark.com/">Hogun Park</a>, <a href="https://sites.google.com/site/jaepilheo">Jae-Pil Heo</a>, <a href="http://www.joonseok.net/">Joonseok Lee</a>, <a href="https://jongwuklee.weebly.com/">Jongwuk Lee</a>)'
-        detail: "Sungkyunkwan University"
-        links:
-          - {t: "slide", u: "https://drive.google.com/file/d/1QB2lABEqL-0dFQ2pLMwyCTJLVor-g_j7/view?usp=sharing"}
+dissertation:
+  title: "Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality"
+  venue: "SKKU 2026"
+  authors: 'Seongmin Park (Committee: <a href="https://iislab.skku.edu/members/professor">Jee-Hyong Lee</a>, <a href="https://hogunpark.com/">Hogun Park</a>, <a href="https://sites.google.com/site/jaepilheo">Jae-Pil Heo</a>, <a href="http://www.joonseok.net/">Joonseok Lee</a>, <a href="https://jongwuklee.weebly.com/">Jongwuk Lee</a>)'
+  detail: "Ph.D. Dissertation, Sungkyunkwan University"
+  links:
+    - {t: "slide", u: "https://drive.google.com/file/d/1QB2lABEqL-0dFQ2pLMwyCTJLVor-g_j7/view?usp=sharing"}
 
+publications:
   - group: "International Conferences"
     items:
       - title: "MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation"
