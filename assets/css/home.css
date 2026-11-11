@@ -138,16 +138,27 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   font-weight: 500;
 }
 
-.btns { margin: 18px 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.btns { margin: 18px 0 0; display: flex; flex-wrap: wrap; gap: 10px; }
 .btn {
-  padding: 6px 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: 10px;
   background: var(--surface);
   color: var(--ink);
-  font-size: 0.85rem;
-  font-weight: 500;
   transition: border-color 0.15s, color 0.15s, transform 0.15s;
+}
+.ico { width: 20px; height: 20px; }
+.ico-fill { fill: currentColor; }
+.ico-line {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 .btn:hover {
   text-decoration: none;
@@ -270,10 +281,33 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 /* small screens */
 @media (max-width: 760px) {
-  .hero { padding-top: 36px; }
-  .hero__inner { grid-template-columns: 1fr; gap: 24px; }
-  .hero__photo { width: 160px; height: 160px; }
-  .hero h1 { font-size: 2.1rem; }
+  .hero { padding-top: 28px; }
+  /* photo beside the name and icons, bio and keywords below */
+  .hero__inner {
+    grid-template-columns: 96px 1fr;
+    grid-template-areas:
+      "photo name"
+      "photo links"
+      "bio   bio"
+      "chips chips";
+    gap: 6px 18px;
+    align-items: center;
+  }
+  .hero__text { display: contents; }
+  .hero__photo {
+    grid-area: photo;
+    width: 96px;
+    height: 96px;
+    border-radius: 20px;
+    object-position: 50% 20%;
+    box-shadow: none;
+  }
+  .hero h1 { grid-area: name; align-self: end; margin: 0; font-size: 1.8rem; }
+  .btns { grid-area: links; align-self: start; margin: 4px 0 0; gap: 6px; }
+  .btn { width: 34px; height: 34px; border-radius: 8px; }
+  .ico { width: 17px; height: 17px; }
+  .prose { grid-area: bio; margin-top: 14px; }
+  .chips { grid-area: chips; margin: 4px 0 0; }
   .topbar__inner { gap: 12px; }
   .pub { grid-template-columns: 1fr; gap: 8px; }
   .cols { grid-template-columns: 1fr; gap: 8px; }

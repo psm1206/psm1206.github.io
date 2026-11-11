@@ -9,11 +9,11 @@ profile:
     - "Collaborative Filtering"
     - "LLM-based Personalization"
   links:
-    - {t: "Email", u: "mailto:seongmin.park@hufs.ac.kr"}
-    - {t: "Google Scholar", u: "https://scholar.google.com/citations?user=AVfK1MgAAAAJ"}
-    - {t: "GitHub", u: "https://github.com/psm1206"}
-    - {t: "LinkedIn", u: "https://www.linkedin.com/in/sm-park"}
-    - {t: "CV", u: "https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing"}
+    - {t: "Email", icon: "email", u: "mailto:seongmin.park@hufs.ac.kr"}
+    - {t: "Google Scholar", icon: "scholar", u: "https://scholar.google.com/citations?user=AVfK1MgAAAAJ"}
+    - {t: "GitHub", icon: "github", u: "https://github.com/psm1206"}
+    - {t: "LinkedIn", icon: "linkedin", u: "https://www.linkedin.com/in/sm-park"}
+    - {t: "CV", icon: "cv", u: "https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing"}
 
 experience:
   - org: "Hankuk University of Foreign Studies (HUFS)"
