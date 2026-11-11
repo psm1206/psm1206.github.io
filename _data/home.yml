@@ -3,9 +3,6 @@
 
 profile:
   name: "Seongmin Park"
-  role: "Assistant Professor"
-  affiliation: "Division of AI Data Convergence, Hankuk University of Foreign Studies (HUFS)"
-  affiliation_url: "https://aidata.hufs.ac.kr/"
   photo: "/images/profile.jpg"
   interests:
     - "Recommender Systems"
@@ -20,7 +17,6 @@ profile:
     - {t: "GitHub", u: "https://github.com/psm1206"}
     - {t: "LinkedIn", u: "https://www.linkedin.com/in/sm-park"}
     - {t: "CV", u: "https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing"}
-    - {t: "DIA Lab", u: "https://dia.hufs.ac.kr/"}
 
 experience:
   - org: "Hankuk University of Foreign Studies (HUFS)"

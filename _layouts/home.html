@@ -37,11 +37,9 @@
 
   <section id="about" class="hero">
     <div class="wrap hero__inner">
-      <img class="hero__photo" src="{{ site.baseurl }}{{ d.profile.photo }}" alt="{{ d.profile.name }}" width="280" height="440">
+      <img class="hero__photo" src="{{ site.baseurl }}{{ d.profile.photo }}" alt="{{ d.profile.name }}" width="250" height="400">
       <div class="hero__text">
-        <p class="eyebrow">{{ d.profile.role }}</p>
         <h1>{{ d.profile.name }}</h1>
-        <p class="affil"><a href="{{ d.profile.affiliation_url }}">{{ d.profile.affiliation }}</a></p>
 
         <div class="prose">
           {{ content }}
@@ -81,7 +79,6 @@
           {% endfor %}
         </ol>
       {% endfor %}
-      <p class="more">The full list is on <a href="https://scholar.google.com/citations?user=AVfK1MgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.</p>
     </div>
   </section>
 

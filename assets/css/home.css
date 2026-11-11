@@ -97,37 +97,26 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .hero { padding: 56px 0 32px; }
 .hero__inner {
   display: grid;
-  grid-template-columns: 280px 1fr;
+  grid-template-columns: 250px 1fr;
   gap: 40px;
   align-items: start;
 }
 .hero__photo {
-  width: 280px;
-  height: 440px;
+  width: 250px;
+  height: 400px;
   object-fit: cover;
   object-position: 50% 25%;
   border-radius: 24px;
   border: 1px solid var(--line);
   box-shadow: 0 10px 30px rgba(20, 30, 40, 0.1);
 }
-.eyebrow {
-  margin: 0 0 4px;
-  color: var(--accent);
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
 .hero h1 {
-  margin: 0;
+  margin: 0 0 16px;
   font-family: "Source Serif 4", Georgia, serif;
   font-size: 2.6rem;
   line-height: 1.15;
   letter-spacing: -0.01em;
 }
-.affil { margin: 6px 0 18px; color: var(--muted); }
-.affil a { color: inherit; }
-.affil a:hover { color: var(--accent); }
 
 .prose p { margin: 0 0 12px; }
 .prose { font-size: 0.98rem; }
@@ -232,7 +221,6 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   font-weight: 500;
 }
 .pub__links a:hover { background: var(--accent-soft); text-decoration: none; }
-.more { margin-top: 20px; color: var(--muted); font-size: 0.9rem; }
 
 /* experience and education */
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
