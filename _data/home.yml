@@ -38,7 +38,6 @@ education:
 dissertation:
   title: "Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality"
   authors: 'Seongmin Park (Committee: <a href="https://iislab.skku.edu/members/professor">Jee-Hyong Lee</a>, <a href="https://hogunpark.com/">Hogun Park</a>, <a href="https://sites.google.com/site/jaepilheo">Jae-Pil Heo</a>, <a href="http://www.joonseok.net/">Joonseok Lee</a>, <a href="https://jongwuklee.weebly.com/">Jongwuk Lee</a>)'
-  detail: "Ph.D. Dissertation, Sungkyunkwan University"
   links:
     - {t: "slide", u: "https://drive.google.com/file/d/1QB2lABEqL-0dFQ2pLMwyCTJLVor-g_j7/view?usp=sharing"}
 

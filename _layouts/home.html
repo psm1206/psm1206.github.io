@@ -90,7 +90,6 @@
           <div class="pub__body">
             <p class="pub__title">{{ d.dissertation.title }}</p>
             <p class="pub__authors">{{ d.dissertation.authors }}</p>
-            <p class="pub__detail">{{ d.dissertation.detail }}</p>
             <p class="pub__links">
               {% for l in d.dissertation.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}
             </p>
