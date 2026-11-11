@@ -7,9 +7,6 @@ profile:
   interests:
     - "Recommender Systems"
     - "Collaborative Filtering"
-    - "Sequential Recommendation"
-    - "Conversational Recommendation"
-    - "Generative Recommendation"
     - "LLM-based Personalization"
   links:
     - {t: "Email", u: "mailto:seongmin.park@hufs.ac.kr"}
