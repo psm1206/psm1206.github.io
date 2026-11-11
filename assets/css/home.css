@@ -192,6 +192,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   border-top: 1px solid var(--line);
 }
 .pub:first-child { border-top: 0; }
+.pub--single { grid-template-columns: 1fr; }
 .badge {
   display: inline-block;
   padding: 2px 10px;
