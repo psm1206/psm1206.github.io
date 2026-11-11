@@ -1,7 +1,7 @@
 ---
-permalink: /
-title: "Seongmin Park"
 layout: home
+title: "Seongmin Park"
+permalink: /
 description: "Seongmin Park, Assistant Professor at HUFS. Research on recommender systems, data mining, and LLM-based personalization."
 redirect_from:
   - /about/
