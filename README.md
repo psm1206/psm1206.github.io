@@ -2,7 +2,7 @@
 
 개인 홈페이지 관리 메모입니다. Jekyll과 GitHub Pages로 배포하며, `master`에 push하면 1에서 2분 뒤 자동으로 반영됩니다. [Academic Pages](https://github.com/academicpages/academicpages.github.io) 템플릿에서 쓰지 않는 기능을 모두 덜어낸 버전입니다.
 
-## 어디를 고치나
+## 주요 수정 부분
 
 | 바꾸려는 것 | 위치 |
 | --- | --- |
