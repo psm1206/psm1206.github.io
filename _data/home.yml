@@ -201,7 +201,7 @@ service:
       - {y: "2024", t: "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"}
   - title: "Journal Reviewer"
     items:
-      - {y: "2026", t: "IEEE Transactions on Knowledge and Data Engineering (JCR 2024 IF: 10.4, Q1), twice"}
+      - {y: "2026a, 2026b", t: "IEEE Transactions on Knowledge and Data Engineering (JCR 2024 IF: 10.4, Q1)"}
       - {y: "2025, 2026", t: "IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)"}
       - {y: "2025", t: "ACM Transactions on Intelligent Systems and Technology (JCR 2024 IF: 6.6, Q1)"}
   - title: "External Reviewer"

@@ -145,7 +145,7 @@
         <h3 class="group">{{ s.title }}</h3>
         <ul class="rows">
           {% for i in s.items %}
-          <li><span class="rows__y">{{ i.y }}</span><span class="rows__t">{{ i.t }}</span></li>
+          <li{% if i.y == "" %} class="no-year"{% endif %}>{% if i.y != "" %}<span class="rows__y">{{ i.y }}</span>{% endif %}<span class="rows__t">{{ i.t }}</span></li>
           {% endfor %}
         </ul>
       {% endfor %}
