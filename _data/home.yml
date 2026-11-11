@@ -50,6 +50,11 @@ dissertation:
 publications:
   - group: "International Conferences"
     items:
+      - title: "Intent-guided Semantic Regularization for LLM-enhanced Sequential Recommendation"
+        venue: "WSDM 2027 Findings"
+        authors: 'Hye-young Kim, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        detail: "Hong Kong (Acceptance Rate: 28.4%)"
+
       - title: "MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation"
         venue: "KDD 2026"
         authors: 'Hyunsoo Kim*, Jaewan Moon*, <strong>Seongmin Park</strong>, Jongwuk Lee'
