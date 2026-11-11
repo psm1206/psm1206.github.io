@@ -1,0 +1,229 @@
+# Content for the home page (_pages/about.md, layout: home).
+# Edit this file to update the site. Authors support simple HTML (<strong>, <a>).
+
+profile:
+  name: "Seongmin Park"
+  role: "Assistant Professor"
+  affiliation: "Division of AI Data Convergence, Hankuk University of Foreign Studies (HUFS)"
+  affiliation_url: "https://aidata.hufs.ac.kr/"
+  photo: "/images/profile.jpg"
+  interests:
+    - "Recommender Systems"
+    - "Collaborative Filtering"
+    - "Sequential Recommendation"
+    - "Conversational Recommendation"
+    - "Generative Recommendation"
+    - "LLM-based Personalization"
+  links:
+    - {t: "Email", u: "mailto:seongmin.park@hufs.ac.kr"}
+    - {t: "Google Scholar", u: "https://scholar.google.com/citations?user=AVfK1MgAAAAJ"}
+    - {t: "GitHub", u: "https://github.com/psm1206"}
+    - {t: "LinkedIn", u: "https://www.linkedin.com/in/sm-park"}
+    - {t: "CV", u: "https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing"}
+    - {t: "DIA Lab", u: "https://dia.hufs.ac.kr/"}
+
+experience:
+  - org: "Hankuk University of Foreign Studies (HUFS)"
+    place: "Global Campus, Republic of Korea"
+    period: "Mar 2026 - Present"
+    title: "Assistant Professor, Division of AI Data Convergence"
+    desc: 'Leading the <a href="https://dia.hufs.ac.kr/">Data Intelligence and Applications (DIA) Lab</a>.'
+
+education:
+  - org: "Sungkyunkwan University (SKKU), Republic of Korea"
+    period: "2026"
+    title: "Ph.D., Artificial Intelligence"
+    desc: 'Advisor: <a href="https://jongwuklee.weebly.com/">Prof. Jongwuk Lee</a> (DIAL Lab).<br>Thesis: Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality'
+  - org: "Sungkyunkwan University (SKKU), Republic of Korea"
+    period: "2020"
+    title: "B.S., Mechanical Engineering"
+    desc: ""
+
+publications:
+  - group: "Ph.D. Dissertation"
+    items:
+      - title: "Improving Linear Item-Item Recommender Models for Data Bias, Semantics, and Temporality"
+        venue: "Ph.D. Thesis"
+        authors: 'Seongmin Park (Committee: <a href="https://iislab.skku.edu/members/professor">Jee-Hyong Lee</a>, <a href="https://hogunpark.com/">Hogun Park</a>, <a href="https://sites.google.com/site/jaepilheo">Jae-Pil Heo</a>, <a href="http://www.joonseok.net/">Joonseok Lee</a>, <a href="https://jongwuklee.weebly.com/">Jongwuk Lee</a>)'
+        detail: "Sungkyunkwan University"
+        links:
+          - {t: "slide", u: "https://drive.google.com/file/d/1QB2lABEqL-0dFQ2pLMwyCTJLVor-g_j7/view?usp=sharing"}
+
+  - group: "International Conferences"
+    items:
+      - title: "MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation"
+        venue: "KDD 2026"
+        authors: 'Hyunsoo Kim*, Jaewan Moon*, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        eq: true
+        detail: "Jeju, Republic of Korea (Acceptance Rate: 20%)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2601.01753"}
+          - {t: "code", u: "https://github.com/sudokim/MergeRec"}
+
+      - title: "Enhancing Time Awareness in Generative Recommendation"
+        venue: "EMNLP 2025 Findings"
+        authors: 'Sunkyung Lee, <strong>Seongmin Park</strong>, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee'
+        detail: "Suzhou, China"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2509.13957"}
+          - {t: "code", u: "https://github.com/skleee/GRUT"}
+          - {t: "slide", u: "https://drive.google.com/file/d/1DN3NIef9nA0uLpleh8Bu2hnwTRZMKMub/view?usp=sharing"}
+
+      - title: "MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation"
+        venue: "CIKM 2025"
+        authors: 'Ilwoong Baek*, Mincheol Yoon*, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        eq: true
+        detail: "Seoul, Republic of Korea (Acceptance Rate: 27%, 443/1627)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2508.13670"}
+          - {t: "code", u: "https://github.com/ilwoong100/MUFFIN"}
+          - {t: "slide", u: "https://drive.google.com/file/d/171U8pQW2L_4WZ3Ai9qRWQ6n1XhI1tCd2/view?usp=sharing"}
+
+      - title: "LLM-Enhanced Linear Autoencoders for Recommendation"
+        venue: "CIKM 2025"
+        authors: 'Jaewan Moon*, <strong>Seongmin Park</strong>*, Jongwuk Lee'
+        eq: true
+        detail: "Seoul, Republic of Korea (Acceptance Rate: 30.6%, 185/604; short paper track)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2508.13500"}
+          - {t: "code", u: "https://github.com/jaewan7599/L3AE_CIKM2025"}
+          - {t: "poster", u: "https://drive.google.com/file/d/1QEqkt2m0UKEG2yJWRiryNvh2Ln-bafo2/view?usp=sharing"}
+
+      - title: "Why is Normalization Necessary for Linear Recommenders?"
+        venue: "SIGIR 2025"
+        authors: '<strong>Seongmin Park</strong>, Mincheol Yoon, Hye-young Kim, Jongwuk Lee'
+        detail: "Padua, Italy (Acceptance Rate: 21.5%, 238/1105)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2504.05805"}
+          - {t: "code", u: "https://github.com/psm1206/DAN"}
+          - {t: "slide", u: "https://drive.google.com/file/d/1CJGLaYSV06ZydebBaLb0cB_usAyFW-Am/view?usp=sharing"}
+          - {t: "poster", u: "https://drive.google.com/file/d/1AzRL6RUofOPPaTcMBrLxGDPBTwS2E0Cs/view?usp=sharing"}
+
+      - title: "Linear Item-Item Models with Neural Knowledge for Session-based Recommendation"
+        venue: "SIGIR 2025"
+        authors: 'Minjin Choi, Sunkyung Lee, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        detail: "Padua, Italy (Acceptance Rate: 21.5%, 238/1105)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2504.15057"}
+          - {t: "code", u: "https://github.com/jin530/LINK"}
+          - {t: "slide", u: "https://drive.google.com/file/d/1EXlnpDn4Ak_5tFfOZhMvms1AkjPNwnyJ/view?usp=sharing"}
+
+      - title: "Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences"
+        venue: "NAACL 2025"
+        authors: 'Heejin Kook*, Junyoung Kim*, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        eq: true
+        detail: "Albuquerque, New Mexico, USA (Acceptance Rate: 22.15%, 719/3246)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2503.22005"}
+          - {t: "code", u: "https://github.com/kookeej/CORAL"}
+          - {t: "slide", u: "https://drive.google.com/file/d/18nOHO8UFdatXI1Zb32UminfPmVu121TD/view?usp=sharing"}
+
+      - title: "Temporal Linear Item-Item Model for Sequential Recommendation"
+        venue: "WSDM 2025"
+        authors: '<strong>Seongmin Park</strong>*, Mincheol Yoon*, Minjin Choi, Jongwuk Lee'
+        eq: true
+        detail: "Hannover, Germany (Acceptance Rate: 17.3%, 106/614; Oral Presentation, Top 6.5%)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2412.07382"}
+          - {t: "code", u: "https://github.com/psm1206/TALE"}
+          - {t: "slide", u: "https://drive.google.com/file/d/1Q4eeQfmw4TSkoEzQcDmmcgu8zAO6wC6B/view?usp=sharing"}
+
+      - title: "Toward a Better Understanding of Loss Functions for Collaborative Filtering"
+        venue: "CIKM 2023"
+        authors: '<strong>Seongmin Park</strong>, Mincheol Yoon, Jae-woong Lee, Hogun Park, Jongwuk Lee'
+        detail: "Birmingham, UK (Acceptance Rate: 24%, 354/1472)"
+        links:
+          - {t: "paper", u: "https://arxiv.org/abs/2308.06091"}
+          - {t: "code", u: "https://github.com/psm1206/MAWU"}
+          - {t: "slide", u: "https://drive.google.com/file/d/1-b_KoCHOoT5QhcphlM5Ifau07BZp2MHz/view?usp=sharing"}
+
+      - title: "uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering"
+        venue: "SIGIR 2023"
+        authors: 'Jae-woong Lee, <strong>Seongmin Park</strong>, Mincheol Yoon, Jongwuk Lee'
+        detail: "Taipei, Taiwan (Acceptance Rate: 25.12%, 154/613; short paper track)"
+        links:
+          - {t: "paper", u: "https://dl.acm.org/doi/10.1145/3539618.3592076"}
+          - {t: "code", u: "https://github.com/Jaewoong-Lee/sigir_2023_uCTRL"}
+          - {t: "poster", u: "https://drive.google.com/file/d/1I318pPCc0pEI-lJVPqDBLEUIdwFT_fOL/view?usp=sharing"}
+
+      - title: "Bilateral Self-unbiased Learning from Biased Implicit Feedback"
+        venue: "SIGIR 2022"
+        authors: 'Jae-woong Lee, <strong>Seongmin Park</strong>, Joonseok Lee, Jongwuk Lee'
+        detail: "Madrid, Spain (Acceptance Rate: 20%, 161/794)"
+        links:
+          - {t: "paper", u: "https://dl.acm.org/doi/abs/10.1145/3477495.3531946"}
+          - {t: "code", u: "https://github.com/Jaewoong-Lee/sigir_2022_BISER"}
+          - {t: "slide", u: "https://drive.google.com/file/d/1g_3omtk83yyRmrrzaq5PDAmr9MQ9tM0m/view?usp=sharing"}
+          - {t: "poster", u: "https://drive.google.com/file/d/1R8N6x7kW6qrmWqa5c97JGeGlpyuDvWXZ/view?usp=sharing"}
+
+      - title: "Dual Unbiased Recommender Learning for Implicit Feedback"
+        venue: "SIGIR 2021"
+        authors: 'Jae-woong Lee, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        detail: "Virtual Event (Acceptance Rate: 27.6%, 145/526; short paper track)"
+        links:
+          - {t: "paper", u: "https://dl.acm.org/doi/10.1145/3404835.3463118"}
+          - {t: "code", u: "https://github.com/Jaewoong-Lee/sigir_2021_unbiased_recsys"}
+
+  - group: "Domestic Conferences and Journals"
+    items:
+      - title: "LLM-based Conversational Recommender Systems Using User/Item Preference Reasoning Paths"
+        venue: "JOK 2025"
+        authors: 'Hyeri Lee, Heejin Kook, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        detail: "Journal of KIISE (JOK), Vol.52 No.10 [2025]: 890-899, Oct 2025"
+        links:
+          - {t: "paper", u: "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417640"}
+
+      - title: "Enhancing LLM-based Zero-Shot Conversational Recommendation via Reasoning Path"
+        venue: "JOK 2025"
+        authors: 'Heejin Kook, <strong>Seongmin Park</strong>, Jongwuk Lee'
+        detail: "Journal of KIISE (JOK), Vol.52 No.7 [2025]: 617-626, Jul 2025"
+        links:
+          - {t: "paper", u: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650"}
+
+      - title: "Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Models through Chain of Thought Prompting"
+        venue: "KCC 2023"
+        authors: 'Jeongwoo Na*, Heejin Kook*, <strong>Seongmin Park</strong>, Jaewan Moon, Jongwuk Lee'
+        eq: true
+        detail: "Korea Computer Congress, Jun 2023"
+        links:
+          - {t: "paper", u: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244"}
+
+service:
+  - title: "Conference Reviewer and Program Committee Member"
+    items:
+      - {y: "2027", t: "ACM International Conference on Web Search and Data Mining (WSDM)"}
+      - {y: "2026", t: "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), ACM International Conference on Web Search and Data Mining (WSDM), The ACM Web Conference (WWW)"}
+      - {y: "2025", t: "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"}
+      - {y: "2024", t: "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"}
+  - title: "Journal Reviewer"
+    items:
+      - {y: "2026", t: "IEEE Transactions on Knowledge and Data Engineering (JCR 2024 IF: 10.4, Q1), twice"}
+      - {y: "2025, 2026", t: "IEEE Transactions on Consumer Electronics (JCR 2024 IF: 10.9, Q1)"}
+      - {y: "2025", t: "ACM Transactions on Intelligent Systems and Technology (JCR 2024 IF: 6.6, Q1)"}
+  - title: "External Reviewer"
+    items:
+      - {y: "", t: "NeurIPS (2022, 2023, 2025), WWW (2024), SIGIR (2023), WSDM (2022), AAAI (2022), KDD (2022), EMNLP (2022), EACL (2021)"}
+
+honors:
+  - {y: "2023", t: "2nd Place (Minister Award), 6th Stage II AI Grand Challenge: Policy Support AI", u: "https://news.heraldcorp.com/view.php?ud=20231211000522"}
+  - {y: "2023", t: "Excellence Prize, SKKU Graduate Student Paper Awards (8/140 teams; KRW 4,000,000)", u: "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=109453"}
+  - {y: "2023", t: "4th Place (Minister Award), 6th Stage I AI Grand Challenge: Policy Support AI", u: "https://zdnet.co.kr/view/?no=20230117090344"}
+  - {y: "2022", t: "1st Place (Minister Award), 5th Stage III AI Grand Challenge: Math Word Problem Solving", u: "https://www.aitimes.kr/news/articleView.html?idxno=26612"}
+  - {y: "2021", t: "Participation Prize, SKKU Graduate Student Paper Awards (25/200 people; KRW 4,000,000)", u: "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=92992"}
+  - {y: "2021", t: "3rd Place (Minister Award), 5th Stage II AI Grand Challenge: Math Word Problem Solving", u: ""}
+  - {y: "2015", t: "Silver Prize, Undergraduate Korean Fluid Engineering Competition", u: ""}
+
+talks:
+  - {y: "Oct 2026", t: "추천 시스템과 언어 교육 AI, 사이버한국외국어대학교 AI&English학과 Colloquium"}
+  - {y: "Jun 2026", t: "추천 시스템과 교육 AI, 한국외국어대학교 교육대학원 AI Week 특강"}
+
+teaching:
+  - term: "Fall 2026"
+    courses:
+      - "Introduction to Recommender Systems (추천시스템기초)"
+      - "Deep Learning-based Recommender Systems (딥러닝추천시스템)"
+      - "Translation and AI (통번역과AI)"
+  - term: "Spring 2026"
+    courses:
+      - "Big Data Mining (빅데이터마이닝)"
+      - "Advanced Deep Learning (딥러닝고급)"

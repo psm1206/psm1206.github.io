@@ -1,0 +1,181 @@
+<!doctype html>
+{% assign d = site.data.home %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ d.profile.name }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta property="og:title" content="{{ d.profile.name }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="{{ site.baseurl }}/images/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/apple-touch-icon-180x180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/home.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar__inner">
+    <a class="brand" href="#about">{{ d.profile.name }}</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#about">About</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#service">Service</a>
+      <a href="#honors">Honors</a>
+      <a href="#teaching">Teaching</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section id="about" class="hero">
+    <div class="wrap hero__inner">
+      <img class="hero__photo" src="{{ site.baseurl }}{{ d.profile.photo }}" alt="{{ d.profile.name }}" width="220" height="220">
+      <div class="hero__text">
+        <p class="eyebrow">{{ d.profile.role }}</p>
+        <h1>{{ d.profile.name }}</h1>
+        <p class="affil"><a href="{{ d.profile.affiliation_url }}">{{ d.profile.affiliation }}</a></p>
+
+        <div class="prose">
+          {{ content }}
+        </div>
+
+        <ul class="chips" aria-label="Research interests">
+          {% for i in d.profile.interests %}<li>{{ i }}</li>{% endfor %}
+        </ul>
+
+        <p class="btns">
+          {% for l in d.profile.links %}<a class="btn" href="{{ l.u }}"{% unless l.u contains 'mailto:' %} target="_blank" rel="noopener"{% endunless %}>{{ l.t }}</a>{% endfor %}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="publications" class="section">
+    <div class="wrap">
+      <h2>Publications</h2>
+      {% for g in d.publications %}
+        <h3 class="group">{{ g.group }}</h3>
+        <ol class="pubs">
+          {% for p in g.items %}
+          <li class="pub">
+            <div class="pub__venue"><span class="badge">{{ p.venue }}</span></div>
+            <div class="pub__body">
+              <p class="pub__title">{{ p.title }}</p>
+              <p class="pub__authors">{{ p.authors }}{% if p.eq %} <span class="eqnote">(* equal contribution)</span>{% endif %}</p>
+              <p class="pub__detail">{{ p.detail }}</p>
+              {% if p.links %}
+              <p class="pub__links">
+                {% for l in p.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}
+              </p>
+              {% endif %}
+            </div>
+          </li>
+          {% endfor %}
+        </ol>
+      {% endfor %}
+      <p class="more">The full list is on <a href="https://scholar.google.com/citations?user=AVfK1MgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.</p>
+    </div>
+  </section>
+
+  <section id="experience" class="section">
+    <div class="wrap">
+      <h2>Experience and Education</h2>
+      <div class="cols">
+        <div>
+          <h3 class="group">Experience</h3>
+          <ul class="timeline">
+            {% for e in d.experience %}
+            <li>
+              <span class="timeline__period">{{ e.period }}</span>
+              <p class="timeline__org">{{ e.org }}</p>
+              <p class="timeline__title">{{ e.title }}</p>
+              {% if e.desc != "" %}<p class="timeline__desc">{{ e.desc }}</p>{% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div>
+          <h3 class="group">Education</h3>
+          <ul class="timeline">
+            {% for e in d.education %}
+            <li>
+              <span class="timeline__period">{{ e.period }}</span>
+              <p class="timeline__org">{{ e.org }}</p>
+              <p class="timeline__title">{{ e.title }}</p>
+              {% if e.desc != "" %}<p class="timeline__desc">{{ e.desc }}</p>{% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="service" class="section">
+    <div class="wrap">
+      <h2>Professional Service</h2>
+      {% for s in d.service %}
+        <h3 class="group">{{ s.title }}</h3>
+        <ul class="rows">
+          {% for i in s.items %}
+          <li><span class="rows__y">{{ i.y }}</span><span class="rows__t">{{ i.t }}</span></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section id="honors" class="section">
+    <div class="wrap">
+      <h2>Honors and Awards</h2>
+      <ul class="rows">
+        {% for h in d.honors %}
+        <li>
+          <span class="rows__y">{{ h.y }}</span>
+          <span class="rows__t">{{ h.t }}{% if h.u != "" %} <a class="inline" href="{{ h.u }}" target="_blank" rel="noopener">[link]</a>{% endif %}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <section id="teaching" class="section">
+    <div class="wrap">
+      <h2>Talks and Teaching</h2>
+      <h3 class="group">Invited Talks</h3>
+      <ul class="rows">
+        {% for t in d.talks %}
+        <li><span class="rows__y">{{ t.y }}</span><span class="rows__t">{{ t.t }}</span></li>
+        {% endfor %}
+      </ul>
+      <h3 class="group">Teaching</h3>
+      {% for term in d.teaching %}
+      <ul class="rows">
+        {% for c in term.courses %}
+        <li><span class="rows__y">{% if forloop.first %}{{ term.term }}{% endif %}</span><span class="rows__t">{{ c }}</span></li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p>&copy; {{ 'now' | date: '%Y' }} {{ d.profile.name }}</p>
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=280&amp;t=m&amp;d=Ier28U1QUfiPhkuhOkNjay5nJFkjnGpeMDOquzcn3sI"></script>
+  </div>
+</footer>
+
+<script src="{{ site.baseurl }}/assets/js/home.js"></script>
+</body>
+</html>
