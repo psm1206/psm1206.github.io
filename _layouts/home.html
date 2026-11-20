@@ -74,15 +74,10 @@
           {% for p in g.items %}
           <li class="pub">
             <div class="pub__body">
-              <p class="pub__title">{{ p.title }}</p>
+              <p class="pub__title">{{ p.title }}{% if p.links %}<span class="pub__links">{% for l in p.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}</span>{% endif %}</p>
               <p class="pub__authors">{{ p.authors }}{% if p.eq %} <span class="eqnote">(* equal contribution)</span>{% endif %}</p>
               <p class="pub__venue">{{ p.venue }}</p>
               <p class="pub__detail">{{ p.detail }}</p>
-              {% if p.links %}
-              <p class="pub__links">
-                {% for l in p.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}
-              </p>
-              {% endif %}
             </div>
           </li>
           {% endfor %}
@@ -97,11 +92,8 @@
       <ol class="pubs">
         <li class="pub">
           <div class="pub__body">
-            <p class="pub__title">{{ d.dissertation.title }}</p>
+            <p class="pub__title">{{ d.dissertation.title }}{% if d.dissertation.links %}<span class="pub__links">{% for l in d.dissertation.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}</span>{% endif %}</p>
             <p class="pub__authors">{{ d.dissertation.authors }}</p>
-            <p class="pub__links">
-              {% for l in d.dissertation.links %}<a href="{{ l.u }}" target="_blank" rel="noopener">{{ l.t }}</a>{% endfor %}
-            </p>
           </div>
         </li>
       </ol>
