@@ -41,52 +41,52 @@ publications:
   - group: "International Conferences"
     items:
       - title: "Intent-guided Semantic Regularization for LLM-enhanced Sequential Recommendation"
-        venue: "WSDM 2027 Findings"
+        venue: 'The 20th ACM International Conference on Web Search and Data Mining (<strong>WSDM Findings</strong>)'
         authors: 'Hye-young Kim, <strong>Seongmin Park</strong>, Jongwuk Lee'
-        detail: "Hong Kong (Acceptance Rate: 28.4%)"
+        detail: "Hong Kong, Feb 15–19, 2027 (Acceptance Rate: 28.4%)"
 
       - title: "MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation"
-        venue: "KDD 2026"
+        venue: 'The 32nd International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)'
         authors: 'Hyunsoo Kim*, Jaewan Moon*, <strong>Seongmin Park</strong>, Jongwuk Lee'
         eq: true
-        detail: "Jeju, Republic of Korea (Acceptance Rate: 20%)"
+        detail: "Jeju, Republic of Korea, Aug 9–13, 2026 (Acceptance Rate: 20%)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2601.01753"}
           - {t: "code", u: "https://github.com/sudokim/MergeRec"}
 
       - title: "Enhancing Time Awareness in Generative Recommendation"
-        venue: "EMNLP 2025 Findings"
+        venue: 'The 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP Findings</strong>)'
         authors: 'Sunkyung Lee, <strong>Seongmin Park</strong>, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee'
-        detail: "Suzhou, China"
+        detail: "Suzhou, China, Nov 5–9, 2025"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2509.13957"}
           - {t: "code", u: "https://github.com/skleee/GRUT"}
           - {t: "slide", u: "https://drive.google.com/file/d/1DN3NIef9nA0uLpleh8Bu2hnwTRZMKMub/view?usp=sharing"}
 
       - title: "MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation"
-        venue: "CIKM 2025"
+        venue: 'The 34th ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>)'
         authors: 'Ilwoong Baek*, Mincheol Yoon*, <strong>Seongmin Park</strong>, Jongwuk Lee'
         eq: true
-        detail: "Seoul, Republic of Korea (Acceptance Rate: 27%, 443/1627)"
+        detail: "Seoul, Republic of Korea, Nov 10–14, 2025 (Acceptance Rate: 27%, 443/1627)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2508.13670"}
           - {t: "code", u: "https://github.com/ilwoong100/MUFFIN"}
           - {t: "slide", u: "https://drive.google.com/file/d/171U8pQW2L_4WZ3Ai9qRWQ6n1XhI1tCd2/view?usp=sharing"}
 
       - title: "LLM-Enhanced Linear Autoencoders for Recommendation"
-        venue: "CIKM 2025"
+        venue: 'The 34th ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>, Short Paper)'
         authors: 'Jaewan Moon*, <strong>Seongmin Park</strong>*, Jongwuk Lee'
         eq: true
-        detail: "Seoul, Republic of Korea (Acceptance Rate: 30.6%, 185/604; short paper track)"
+        detail: "Seoul, Republic of Korea, Nov 10–14, 2025 (Acceptance Rate: 30.6%, 185/604)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2508.13500"}
           - {t: "code", u: "https://github.com/jaewan7599/L3AE_CIKM2025"}
           - {t: "poster", u: "https://drive.google.com/file/d/1QEqkt2m0UKEG2yJWRiryNvh2Ln-bafo2/view?usp=sharing"}
 
       - title: "Why is Normalization Necessary for Linear Recommenders?"
-        venue: "SIGIR 2025"
+        venue: 'The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>)'
         authors: '<strong>Seongmin Park</strong>, Mincheol Yoon, Hye-young Kim, Jongwuk Lee'
-        detail: "Padua, Italy (Acceptance Rate: 21.5%, 238/1105)"
+        detail: "Padua, Italy, Jul 13–17, 2025 (Acceptance Rate: 21.5%, 238/1105)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2504.05805"}
           - {t: "code", u: "https://github.com/psm1206/DAN"}
@@ -94,56 +94,56 @@ publications:
           - {t: "poster", u: "https://drive.google.com/file/d/1AzRL6RUofOPPaTcMBrLxGDPBTwS2E0Cs/view?usp=sharing"}
 
       - title: "Linear Item-Item Models with Neural Knowledge for Session-based Recommendation"
-        venue: "SIGIR 2025"
+        venue: 'The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>)'
         authors: 'Minjin Choi, Sunkyung Lee, <strong>Seongmin Park</strong>, Jongwuk Lee'
-        detail: "Padua, Italy (Acceptance Rate: 21.5%, 238/1105)"
+        detail: "Padua, Italy, Jul 13–17, 2025 (Acceptance Rate: 21.5%, 238/1105)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2504.15057"}
           - {t: "code", u: "https://github.com/jin530/LINK"}
           - {t: "slide", u: "https://drive.google.com/file/d/1EXlnpDn4Ak_5tFfOZhMvms1AkjPNwnyJ/view?usp=sharing"}
 
       - title: "Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences"
-        venue: "NAACL 2025"
+        venue: '2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (<strong>NAACL</strong>)'
         authors: 'Heejin Kook*, Junyoung Kim*, <strong>Seongmin Park</strong>, Jongwuk Lee'
         eq: true
-        detail: "Albuquerque, New Mexico, USA (Acceptance Rate: 22.15%, 719/3246)"
+        detail: "Albuquerque, New Mexico, USA, Apr 29–May 4, 2025 (Acceptance Rate: 22.15%, 719/3246)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2503.22005"}
           - {t: "code", u: "https://github.com/kookeej/CORAL"}
           - {t: "slide", u: "https://drive.google.com/file/d/18nOHO8UFdatXI1Zb32UminfPmVu121TD/view?usp=sharing"}
 
       - title: "Temporal Linear Item-Item Model for Sequential Recommendation"
-        venue: "WSDM 2025"
+        venue: 'The 18th ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>, <strong>Oral</strong>)'
         authors: '<strong>Seongmin Park</strong>*, Mincheol Yoon*, Minjin Choi, Jongwuk Lee'
         eq: true
-        detail: "Hannover, Germany (Acceptance Rate: 17.3%, 106/614; Oral Presentation, Top 6.5%)"
+        detail: "Hannover, Germany, Mar 10–14, 2025 (Acceptance Rate: 17.3%, 106/614; Top 6.5%)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2412.07382"}
           - {t: "code", u: "https://github.com/psm1206/TALE"}
           - {t: "slide", u: "https://drive.google.com/file/d/1Q4eeQfmw4TSkoEzQcDmmcgu8zAO6wC6B/view?usp=sharing"}
 
       - title: "Toward a Better Understanding of Loss Functions for Collaborative Filtering"
-        venue: "CIKM 2023"
+        venue: 'The 32nd ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>)'
         authors: '<strong>Seongmin Park</strong>, Mincheol Yoon, Jae-woong Lee, Hogun Park, Jongwuk Lee'
-        detail: "Birmingham, UK (Acceptance Rate: 24%, 354/1472)"
+        detail: "Birmingham, UK, Oct 21–25, 2023 (Acceptance Rate: 24%, 354/1472)"
         links:
           - {t: "paper", u: "https://arxiv.org/abs/2308.06091"}
           - {t: "code", u: "https://github.com/psm1206/MAWU"}
           - {t: "slide", u: "https://drive.google.com/file/d/1-b_KoCHOoT5QhcphlM5Ifau07BZp2MHz/view?usp=sharing"}
 
       - title: "uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering"
-        venue: "SIGIR 2023"
+        venue: 'The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>, Short Paper)'
         authors: 'Jae-woong Lee, <strong>Seongmin Park</strong>, Mincheol Yoon, Jongwuk Lee'
-        detail: "Taipei, Taiwan (Acceptance Rate: 25.12%, 154/613; short paper track)"
+        detail: "Taipei, Taiwan, Jul 23–27, 2023 (Acceptance Rate: 25.12%, 154/613)"
         links:
           - {t: "paper", u: "https://dl.acm.org/doi/10.1145/3539618.3592076"}
           - {t: "code", u: "https://github.com/Jaewoong-Lee/sigir_2023_uCTRL"}
           - {t: "poster", u: "https://drive.google.com/file/d/1I318pPCc0pEI-lJVPqDBLEUIdwFT_fOL/view?usp=sharing"}
 
       - title: "Bilateral Self-unbiased Learning from Biased Implicit Feedback"
-        venue: "SIGIR 2022"
+        venue: 'The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>)'
         authors: 'Jae-woong Lee, <strong>Seongmin Park</strong>, Joonseok Lee, Jongwuk Lee'
-        detail: "Madrid, Spain (Acceptance Rate: 20%, 161/794)"
+        detail: "Madrid, Spain, Jul 11–15, 2022 (Acceptance Rate: 20%, 161/794)"
         links:
           - {t: "paper", u: "https://dl.acm.org/doi/abs/10.1145/3477495.3531946"}
           - {t: "code", u: "https://github.com/Jaewoong-Lee/sigir_2022_BISER"}
@@ -151,9 +151,9 @@ publications:
           - {t: "poster", u: "https://drive.google.com/file/d/1R8N6x7kW6qrmWqa5c97JGeGlpyuDvWXZ/view?usp=sharing"}
 
       - title: "Dual Unbiased Recommender Learning for Implicit Feedback"
-        venue: "SIGIR 2021"
+        venue: 'The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>, Short Paper)'
         authors: 'Jae-woong Lee, <strong>Seongmin Park</strong>, Jongwuk Lee'
-        detail: "Virtual Event (Acceptance Rate: 27.6%, 145/526; short paper track)"
+        detail: "Virtual Event, Jul 11–15, 2021 (Acceptance Rate: 27.6%, 145/526)"
         links:
           - {t: "paper", u: "https://dl.acm.org/doi/10.1145/3404835.3463118"}
           - {t: "code", u: "https://github.com/Jaewoong-Lee/sigir_2021_unbiased_recsys"}
@@ -161,24 +161,24 @@ publications:
   - group: "Domestic Conferences and Journals"
     items:
       - title: "LLM-based Conversational Recommender Systems Using User/Item Preference Reasoning Paths"
-        venue: "JOK 2025"
+        venue: 'Journal of KIISE (<strong>JOK</strong>)'
         authors: 'Hyeri Lee, Heejin Kook, <strong>Seongmin Park</strong>, Jongwuk Lee'
-        detail: "Journal of KIISE (JOK), Vol.52 No.10 [2025]: 890-899, Oct 2025"
+        detail: "Vol.52 No.10 [2025]: 890-899, Oct 2025"
         links:
           - {t: "paper", u: "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417640"}
 
       - title: "Enhancing LLM-based Zero-Shot Conversational Recommendation via Reasoning Path"
-        venue: "JOK 2025"
+        venue: 'Journal of KIISE (<strong>JOK</strong>)'
         authors: 'Heejin Kook, <strong>Seongmin Park</strong>, Jongwuk Lee'
-        detail: "Journal of KIISE (JOK), Vol.52 No.7 [2025]: 617-626, Jul 2025"
+        detail: "Vol.52 No.7 [2025]: 617-626, Jul 2025"
         links:
           - {t: "paper", u: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12285650"}
 
       - title: "Evaluation and Analysis of Knowledge on the Movie Domain of Large Language Models through Chain of Thought Prompting"
-        venue: "KCC 2023"
+        venue: 'Korea Computer Congress (<strong>KCC</strong>)'
         authors: 'Jeongwoo Na*, Heejin Kook*, <strong>Seongmin Park</strong>, Jaewan Moon, Jongwuk Lee'
         eq: true
-        detail: "Korea Computer Congress, Jun 2023"
+        detail: "Jun 2023"
         links:
           - {t: "paper", u: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488244"}
 

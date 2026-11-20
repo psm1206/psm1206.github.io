@@ -73,10 +73,10 @@
         <ol class="pubs">
           {% for p in g.items %}
           <li class="pub">
-            <div class="pub__venue"><span class="badge">{{ p.venue }}</span></div>
             <div class="pub__body">
               <p class="pub__title">{{ p.title }}</p>
               <p class="pub__authors">{{ p.authors }}{% if p.eq %} <span class="eqnote">(* equal contribution)</span>{% endif %}</p>
+              <p class="pub__venue">{{ p.venue }}</p>
               <p class="pub__detail">{{ p.detail }}</p>
               {% if p.links %}
               <p class="pub__links">
@@ -95,7 +95,7 @@
     <div class="wrap">
       <h2>Ph.D. Dissertation</h2>
       <ol class="pubs">
-        <li class="pub pub--single">
+        <li class="pub">
           <div class="pub__body">
             <p class="pub__title">{{ d.dissertation.title }}</p>
             <p class="pub__authors">{{ d.dissertation.authors }}</p>

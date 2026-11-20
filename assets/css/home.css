@@ -196,32 +196,18 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 /* publications */
 .pubs { list-style: none; margin: 0; padding: 0; }
 .pub {
-  display: grid;
-  grid-template-columns: 172px 1fr;
-  gap: 20px;
   padding: 16px 0;
   border-top: 1px solid var(--line);
 }
 .pub:first-child { border-top: 0; }
-.pub--single { grid-template-columns: 1fr; }
-.badge {
-  display: inline-block;
-  padding: 2px 10px;
-  border-radius: 6px;
-  background: var(--accent);
-  color: #fff;
-  font-size: 0.78rem;
-  font-weight: 600;
-  line-height: 1.6;
-  white-space: nowrap;
-}
-@media (prefers-color-scheme: dark) { .badge { color: #0b1f1e; } }
 .pub__body p { margin: 0; }
 .pub__title { font-weight: 600; line-height: 1.45; }
 .pub__authors { margin-top: 4px !important; font-size: 0.92rem; }
 .pub__authors strong { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
 .pub__authors a { color: inherit; border-bottom: 1px dotted var(--muted); }
 .eqnote { color: var(--muted); font-size: 0.8rem; }
+.pub__venue { color: var(--muted); font-size: 0.9rem; margin-top: 2px !important; }
+.pub__venue strong { color: var(--ink); font-weight: 600; }
 .pub__detail { color: var(--muted); font-size: 0.88rem; margin-top: 2px !important; }
 .pub__links { margin-top: 8px !important; display: flex; flex-wrap: wrap; gap: 6px; }
 .pub__links a {
@@ -309,7 +295,6 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   .prose { grid-area: bio; margin-top: 14px; }
   .chips { grid-area: chips; margin: 4px 0 0; }
   .topbar__inner { gap: 12px; }
-  .pub { grid-template-columns: 1fr; gap: 8px; }
   .cols { grid-template-columns: 1fr; gap: 8px; }
   .rows li { grid-template-columns: 1fr; gap: 0; }
 }

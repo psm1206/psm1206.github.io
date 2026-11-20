@@ -26,17 +26,17 @@
 
 ```yaml
 - title: "논문 제목"
-  venue: "SIGIR 2027"            # 왼쪽 배지
   authors: 'A, <strong>Seongmin Park</strong>, B'
   eq: true                       # 공동 제1저자가 있을 때만. 이름 뒤에 *는 직접 붙임
-  detail: "개최지 (Acceptance Rate: 00%)"
+  venue: 'The 50th International ACM SIGIR Conference ... (<strong>SIGIR</strong>)'   # 정식 명칭, 약칭만 굵게
+  detail: "Padua, Italy, Jul 13–17, 2025 (Acceptance Rate: 21.5%)"                    # 개최지, 날짜, 채택률
   links:                         # 없으면 이 줄 전체를 생략
     - {t: "paper", u: "https://..."}
     - {t: "code", u: "https://..."}
 ```
 
 - 저자 문자열은 작은따옴표로 감쌉니다 (안에 HTML이 들어가므로).
-- 배지는 한 줄로 고정되어 있으니 너무 길게 쓰지 않습니다.
+- `venue`는 작은따옴표로 감싸고, 트랙 표기는 약칭 안에 씁니다. 예: `(<strong>CIKM</strong>, Short Paper)`
 
 ## 자잘한 규칙
 
